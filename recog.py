@@ -2,7 +2,7 @@ from PIL import Image
 import pytesseract
 
 # If you don't have tesseract executable in your PATH, include the following:
-pytesseract.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tesseract.exe'  # Adjust the path as necessary
+pytesseract.pytesseract.tesseract_cmd = r'path-to-your-directory'  # Adjust the path as necessary
 
 def imstr():
     print(pytesseract.image_to_string(Image.open('test.png')))  # Simple image to string
