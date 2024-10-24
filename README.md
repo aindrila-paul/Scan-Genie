@@ -11,7 +11,8 @@ Optical Character Recognition using Tesseract.
 3. __python ./recog.py__ to execute the python file.
 
 # Requirements
-Python must be installed in your device
+1.  Python must be installed in your device
+2.  PyTesseract must be added to your system and environment variables.
 
 # About Me
 Hello, my name is Aindrila Paul. I am an Engineering Student at Kalinga Institute of Industrial Technology. Now that my this project is over, I am open-sourcing the project. Hope you like it!
