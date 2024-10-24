@@ -8,7 +8,8 @@ Optical Character Recognition using Tesseract.
 # Getting Started
 1.  git clone __https://github.com/aindrila-paul/Scan-Genie.git__ - clone this project to your computer
 2. cd __Scan-Genie__ - go inside the project directory
-3. __python ./recog.py__ to execute the python file.
+3. __pip install -r requirement.txt__ to install dependencies.
+4. __python ./recog.py__ to execute the python file.
 
 # Requirements
 1.  Python must be installed in your device
